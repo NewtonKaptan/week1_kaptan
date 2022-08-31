@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T08:49:55.166Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" version="20.2.7" etag="q_r627B7ZCj-xZJM6HOz" type="github"><diagram id="Wnn8z-aeVdkcQgLh1UAu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-31T08:05:13.848Z" agent="5.0 (iPad; CPU OS 15_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/104.0.5112.99 Mobile/15E148 Safari/604.1" etag="65UzpxGZaBtTz620XLcz" version="20.2.7" type="github">
+  <diagram id="Wnn8z-aeVdkcQgLh1UAu" name="Page-1">
+    <mxGraphModel dx="642" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-3" value="Wake up (5:00 - 5:30)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="50" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vOpEOcujQoFFgBpt6Euj-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="414" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-7" value="Go downstairs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vOpEOcujQoFFgBpt6Euj-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="270" as="sourcePoint" />
+            <mxPoint x="413" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-12" value="Play games/Watch TV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vOpEOcujQoFFgBpt6Euj-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="270" as="sourcePoint" />
+            <mxPoint x="413" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-14" value="Brush teeth" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vOpEOcujQoFFgBpt6Euj-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="360" as="sourcePoint" />
+            <mxPoint x="414" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-16" value="Go to a canteen by car" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vOpEOcujQoFFgBpt6Euj-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="490" as="sourcePoint" />
+            <mxPoint x="414" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-18" value="Eat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vOpEOcujQoFFgBpt6Euj-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="510" as="sourcePoint" />
+            <mxPoint x="414" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-21" value="Go to school by car" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vOpEOcujQoFFgBpt6Euj-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="414" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-23" value="Play games/Watch Youtube" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vOpEOcujQoFFgBpt6Euj-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="780" as="sourcePoint" />
+            <mxPoint x="413" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-25" value="Go to class" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vOpEOcujQoFFgBpt6Euj-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="800" as="sourcePoint" />
+            <mxPoint x="413" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-27" value="Play games/Watch TV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vOpEOcujQoFFgBpt6Euj-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="830" as="sourcePoint" />
+            <mxPoint x="413" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOpEOcujQoFFgBpt6Euj-30" value="Start class" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
