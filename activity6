@@ -1,0 +1,9 @@
+SEND 'Enter your first number' TO DISPLAY
+RECIEVE firstInteger FROM INPUT
+SEND 'Enter your second number' TO SIPLAY
+RECIEVE secondNumber FROM INPUT
+SEND 'Enter your third number' TO DISPLAY
+RECIEVE thirdNumber TO DISPLAY
+SET fourthInteger TO firstInteger + secondNumber + thirdInteger
+SET fourthInteger TO fourthInteger / 3
+SEND fourthInteger TO DISPLAY
