@@ -1,0 +1,6 @@
+SEND ‘Enter the first number.’ TO MONITOR
+RECIEVE firstInteger FROM INPUT
+SEND ‘Enter your second number.’
+RECIEVE secondInteger FROM INPUT
+SET thirdInteger TO firstInteger * secondInteger
+SEND thirdInteger TO MONITOR
