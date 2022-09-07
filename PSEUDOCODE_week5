@@ -3,4 +3,4 @@ RECIEVE firstInteger FROM INPUT
 SEND ‘Enter your second number.’ TO DISPLAY
 RECIEVE secondInteger FROM INPUT
 SET thirdInteger TO firstInteger * secondInteger
-SEND thirdInteger TO MONITOR
+SEND thirdInteger TO DISPLAY
